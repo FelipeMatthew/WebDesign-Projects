@@ -21,7 +21,7 @@ Projetos finalizados com o objetivo de mostrar os conhecimentos de HTML5, CSS3, 
 
 ## 🤝 Contribuição
 
-Esse projeto foi desenvolvido acompanhando as aulas do professor <a href="https://www.udemy.com/share/101zbq3@OVXqepBO-VcshLYZRQm6ZwMjYgdhX9EnOSkXFHAANnTNJRzeOWx8HL6_NjhBaY4PCg==/">Daniel Morales</a>, na plataforma UDEMY
+Esse projeto foi desenvolvido acompanhando as aulas do professor <a href="https://www.udemy.com/share/101zbq3@OVXqepBO-VcshLYZRQm6ZwMjYgdhX9EnOSkXFHAANnTNJRzeOWx8HL6_NjhBaY4PCg==/">Daniel Morales</a>, na plataforma UDEMY.
 
 ## Suporte ou Contato
 
