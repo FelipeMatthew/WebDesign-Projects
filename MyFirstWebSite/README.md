@@ -1,6 +1,8 @@
 # Projeto: Meu primeiro Website
+Site simples porem com elementos importantes de HTML e CSS
 
-<img src="---">
+<img src="https://cdn.discordapp.com/attachments/1013866754398752831/1014725994390753380/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/1013866754398752831/1014726384599437433/unknown.png">
 
 ## 📊 Objetivo
 
